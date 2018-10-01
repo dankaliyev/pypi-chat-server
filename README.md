@@ -18,7 +18,7 @@
     * virtualenv <имя виртуального окружения>
     * <имя виртуального окружения>\Scripts\activate
 
-* pip install pypi_chat-server
+* pip install pypi-chat-server
 
 ### How do I RUN? ###
 * PYTHON 3 !!!
@@ -26,8 +26,8 @@
 
 * IF YOU DON'T WANT TO CREATE virtual environment (for some reason ;))
     * Just pip install and:
-        * on windows: run cmd >> python3 <your python way>/scripts/pypi_chat_server
-        * on linux: in console >> pypi_chat_server
+        * on windows: run cmd >> python3 <your python way>/scripts/pypi-chat-server
+        * on linux: in console >> pypi-chat-server
 
 ### TO DO ###
 * LEARN!
