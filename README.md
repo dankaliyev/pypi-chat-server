@@ -2,7 +2,7 @@
 
 ### What is this repository for? ###
 
-* Server for pypi_chat.
+* Server for pypi-chat.
 * Study project
 * Version 1.0 ALFA
 
